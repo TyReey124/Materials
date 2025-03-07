@@ -26,4 +26,4 @@ Here`s the material for your education
 
 ### Additional Materials
 - [Fundamentals of Machine Learning (Vorontsov)](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)
-- [Amazon Kindle Version](https://read.amazon.com/?asin=B00QFIA5OC)
+- [GitHub Explanation](https://read.amazon.com/?asin=B00QFIA5OC)
