@@ -50,4 +50,4 @@
 - [Tutorial Ryan Hodson](https://read.amazon.com/?asin=B00QFIA5OC)
 
 ### Python
-- [textbook Mark Lutz](https://npm.mipt.ru/confluence/download/attachments/4390998/%D0%9B%D1%83%D1%82%D1%86%20%D0%9C.%20%D0%98%D0%B7%D1%83%D1%87%D0%B0%D0%B5%D0%BC%20Python%20(4-%D0%B5%20%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5,%202011).pdf?api=v2)
+- [Textbook Mark Lutz](https://npm.mipt.ru/confluence/download/attachments/4390998/%D0%9B%D1%83%D1%82%D1%86%20%D0%9C.%20%D0%98%D0%B7%D1%83%D1%87%D0%B0%D0%B5%D0%BC%20Python%20(4-%D0%B5%20%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5,%202011).pdf?api=v2)
