@@ -1,6 +1,3 @@
-Here`s the list of material for your education!
-
-
 # Machine learning
 
 ### Selfedu
@@ -15,7 +12,7 @@ Here`s the list of material for your education!
 - [Handbook ML](https://education.yandex.ru/handbook/ml)
 - [Fundamentals of Machine Learning (Vorontsov)](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)
 
----
+<br><br>
 
 # Math
 
@@ -42,7 +39,7 @@ Here`s the list of material for your education!
 #### Gnedenko
 - [Textbook](https://nmetau.edu.ua/file/gnedenko1988.pdf)
 
----
+<br><br>
 
 # Additional materials
 
